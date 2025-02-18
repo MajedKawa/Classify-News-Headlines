@@ -1,7 +1,7 @@
 # Classify News Headlines into Categories (Text)
 
 
-Dataset: AG News Dataset: wangrongsheng/ag_news · Datasets at Hugging Face
+Dataset: AG News Dataset: https://huggingface.co/datasets/wangrongsheng/ag_news
 
 Trained different models (Logistic Regression, Decision Tree, Boosting, and KNN) to classify
 news headlines into categories: World, Sports, Business, and Science/Technology.
